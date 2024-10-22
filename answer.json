@@ -1,4 +1,7 @@
 {
+	"tomarket": {
+		"answer": "12,5,7"
+	},
 	"major": {
 		"youtube": {
 			"Watch YouTube Video #1": "070624",
@@ -13,5 +16,28 @@
 			"choice_3": 4,
 			"choice_4": 1
 		}
-	}
+	},
+	"blum": {
+		"How to Analyze Crypto?": "VALUE",
+		"Forks Explained": "GO GET",
+		"Secure your Crypto!": "BEST PROJECT EVER",
+		"Navigating Crypto": "HEYBLUM",
+		"What are Telegram Mini Apps?": "CRYPTOBLUM",
+		"Say No to Rug Pull!": "SUPERBLUM",
+		"Liquidity Pools Guide": "BLUMERSSS",
+		"What Are AMMs?": "CRYPTOSMART",
+		"$2.5M+ DOGS Airdrop": "HAPPYDOGS",
+		"Doxxing? What's that?": "NODOXXING",
+		"Pre-Market Trading?": "WOWBLUM",
+		"Play track \u0026 type track name": "Blum - Big City Life",
+		"How to Memecoin?": "MEMEBLUM",
+		"Token Burning: How & Why?": "ONFIRE",
+		"Bitcoin Rainbow Chart?": "SOBLUM",
+		"Crypto Terms. Part 1": "BLUMEXPLORER",
+		"How to trade Perps?": "CRYPTOFAN",
+		"Sharding Explained:": "BLUMTASTIC",
+		"DeFi Explained": "BLUMFORCE"
+	},
+	"timefarm": "01/08/2020",
+	"expires": 1729555200
 }
