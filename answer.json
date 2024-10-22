@@ -1,5 +1,5 @@
 {
-    "expires": 1700000000,  // Example UNIX timestamp
+    "expires": 1700000000,
     "major": {
         "youtube": {
             "Watch YouTube Video #1": "070624",
