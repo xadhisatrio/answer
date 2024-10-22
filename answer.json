@@ -1,5 +1,4 @@
 {
-    "expires": 1700000000,
     "major": {
         "youtube": {
             "Watch YouTube Video #1": "070624",
@@ -7,12 +6,6 @@
             "Watch YouTube Shorts #3": "070624",
             "Watch YouTube Shorts #4": "159390",
             "Watch YouTube Shorts #6": "241086"
-        },
-        "answer": {
-            "choice_1": 3,
-            "choice_2": 10,
-            "choice_3": 4,
-            "choice_4": 1
         }
     }
 }
