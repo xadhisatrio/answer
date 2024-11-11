@@ -1,15 +1,15 @@
 {
     "seed": {
 	"youtube": {
-		"#1 Learn Blockchain in 3 mins": "blockchain",
-		"#2 Crypto vs Blockchain": "cryptocurrency",
-		"#3 Hot vs Cold Wallet": "wallet",
-		"#4 What is Airdrop?": "airdrop",
-		"#5 Coin vs Token": "tokens",
-		"#6 What is TON?": "ton",
-		"#7 News affecting BTC price": "btctothemoon",
-            	"#8 On-chain vs Off-chain": "transaction",
-            	"#9 CEX vs DEX": "okxeed"
+		"39e322d0-df19-49de-92d9-7675170cd65f": "blockchain",
+		"d0703548-040d-4527-a97d-647d26e172b0": "cryptocurrency",
+		"7c7bffa3-cd52-4443-8647-4d2201cb7c7a": "wallet",
+		"4663208c-551f-4cfe-b95a-63e5deece870": "airdrop",
+		"c39fb00a-2c2e-451b-87ca-23d65e00eacf": "tokens",
+		"ace94ccd-be20-43e3-a105-60dd80717ecb": "ton",
+		"450a4a67-f3bb-4f78-975c-30bba2cb57c3": "btctothemoon",
+            	"ae196f2c-7a8c-47e9-8c86-95f8c27f07b9": "transaction",
+            	"c29e59ac-55dd-414c-a065-03802e50d3af": "okxeed"
 		}
 	},
     "major": {
