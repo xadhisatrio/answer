@@ -2,12 +2,12 @@
     "seed": {
 	"youtube": {
 		"#1 Learn Blockchain in 3 mins": "blockchain",
-		"#2 Crypto vs Blockchain?": "cryptocurrency",
-		"#3 Hot vs Cold Wallet?": "wallet",
-		"#4 What is Airdrop?": "airdrop",
-		"#5 Coin vs Token?": "tokens",
+		"#2 Crypto vs Blockchain": "cryptocurrency",
+		"#3 Hot vs Cold Wallet": "wallet",
+		"#4 What is Airdrop": "airdrop",
+		"#5 Coin vs Token": "tokens",
 		"#6 What is TON?": "ton",
-		"#7 News affecting the BTC price": "btctothemoon",
+		"#7 News affecting BTC price": "btctothemoon",
             	"#8 On-chain vs Off-chain": "transaction",
             	"#9 CEX vs DEX": "okxeed"
 		}
